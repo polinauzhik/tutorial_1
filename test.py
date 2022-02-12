@@ -4,3 +4,4 @@ print("We learn git")
 print("We learn GitHub")
 import datetime
 print("Buy")
+print (datetime)
