@@ -1,6 +1,5 @@
 from datetime import datetime
-name = input("What's your ? ")
-print("Hello, ", name,"!")
+print("Hello!")
 print("We learn git")
 print("We learn GitHub")
 print("Our project: Git_Tutorial")
